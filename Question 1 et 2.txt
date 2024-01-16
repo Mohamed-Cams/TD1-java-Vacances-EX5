@@ -1,0 +1,23 @@
+Mohamed Camara
+DBE
+
+Ex5 Q1:
+             _________________________
+             [Personne________________]
+             |                      |
+        [Etudiant]             [Travailleur]
+             |                      |
+    [Etudiant Travailleur]    [Enseignant]
+             |
+[Etudiant Sportif]
+
+Ex5 Q2:
+
+personne: nom,age
+Travailleur: salaire
+Etudiant: anneeDEtude
+Enseignant: emploiDuTemps
+EtudiantSportif: sportPratique
+
+
+
